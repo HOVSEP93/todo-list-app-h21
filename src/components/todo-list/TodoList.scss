@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid #eee;
+  background-color: #b8e8ff;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.05);
+  padding: 10px;
+  max-width: 400px;
+  margin: 20px auto;
+  border-radius: 4px;
+  h2,
+  p {
+    font-size: 1.5rem;
+  }
+
+  button {
+    background-color: #997140;
+  }
+}
